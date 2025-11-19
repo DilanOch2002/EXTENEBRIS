@@ -1,9 +1,9 @@
-import React from "react";
 import Michelle from "../images/Michelle.svg";
 import Toto from "../images/Toto.svg";
 import Charlie from "../images/Charlie.svg";
 import Mauricio from "../images/Mauricio.svg";
 import Omar from "../images/Omar.svg";
+
 
 type Member = { name: string; role: string; image: string };
 
